@@ -23,7 +23,8 @@ A clean and modern responsive landing page built with HTML5 and CSS3.
 ![Mobile-view3](https://github.com/user-attachments/assets/185b0021-0fe0-4ace-9526-674debea9748)
 
 ## 🔗 Live Preview
-[Click here to view live](#)
+[Click here to view live](https://github.com/HarshithaNallabala/Responsive-Landing-Page)
+
 
 ## 📝 Author
 Built during the Web Development Internship program.
